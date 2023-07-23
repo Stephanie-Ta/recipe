@@ -2,7 +2,7 @@
 ### Here is a level 3 header
 1. Here
 2. is an
-3. ordered list
+3. **ordered** *list*
 
 # recipe### This is a LOCAL change :)
 line 2 changed remotely
