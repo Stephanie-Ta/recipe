@@ -4,6 +4,8 @@
 2. is an
 3. **ordered** *list*
 
+![Cinnamon bun picture!](recipe.jpg)
+
 # recipe### This is a LOCAL change :)
 line 2 changed remotely
 Cinnamon bun recipe
